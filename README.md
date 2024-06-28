@@ -1,2 +1,2 @@
-# CRUD-Sederhana-Java
+# CRUD-Sederhana-CPP
 CRUD sederhana dengan bahasa pemrograman C++
